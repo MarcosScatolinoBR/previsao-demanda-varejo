@@ -1,5 +1,11 @@
 # Previsão de Demanda para Varejo
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
+![Status: Concluído](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Ativo-orange.svg)
+![Previsão de Vendas](https://img.shields.io/badge/Previs%C3%A3o-Varejo-blue.svg)
+
 Projeto de análise de dados e previsão de vendas, focado no setor de varejo, utilizando técnicas de Machine Learning e boas práticas de engenharia de dados.
 
 O objetivo é construir um pipeline robusto que percorre todas as etapas de um projeto real: desde o pré-processamento dos dados, análise exploratória, engenharia de features, modelagem preditiva, até a geração de previsões automáticas.
@@ -9,7 +15,7 @@ O objetivo é construir um pipeline robusto que percorre todas as etapas de um p
 ## 📂 Estrutura de Pastas
 
 ```
-previsao_demanda_retail/
+previsao_demanda_varejo/
 ├── data/               # Bases de dados de entrada
 │   └─ retail_dataset.csv
 ├── models/             # Modelos treinados (.pkl)
